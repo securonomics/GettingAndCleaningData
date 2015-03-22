@@ -4,10 +4,12 @@
 
 ## Subject
 The ID of the subject participating in the experiment, as a number between 1 and 30.
+
 [int] 1 .. 30
 
 ## Activity
 A label representing the type of activity the subject was doing at the time of measurement. Original experiment labeled the data as [int] 1 .. 6.
+
 "Walking" 						(1 in original data)
 "WalkingUpstairs"			(2 in original data)
 "WalkingDownstairs"		(3 in original data)

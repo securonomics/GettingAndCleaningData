@@ -1,9 +1,6 @@
 # Project for Coursera Course "Getting and Cleaning Data"
 # Author: Securonomics
 
-# DELETE THIS PART -- not needed for submission
-setwd("/Users/robert/Documents/Courses/Coursera/3 - Getting and Cleaning Data/project 3")
-
 # Assume top-level working directory is already set, but that information is in UCI directory
 setwd("./UCI HAR Dataset")
 

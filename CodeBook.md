@@ -23,6 +23,7 @@ The data comes from experiments of 30 volunteers who performed six activities (w
 The data set used in the project consist of only those 79 variables having to do with the mean and standard deviation of the accelerometer measurements. 
 
 They are as follows:
+
 [1] "tBodyAcc-mean()-X"            "tBodyAcc-mean()-Y"              
 [3] "tBodyAcc-mean()-Z"            "tBodyAcc-std()-X"               
 [5] "tBodyAcc-std()-Y"             "tBodyAcc-std()-Z"               

@@ -10,12 +10,12 @@ The ID of the subject participating in the experiment, as a number between 1 and
 ## Activity
 A label representing the type of activity the subject was doing at the time of measurement. Original experiment labeled the data as [int] 1 .. 6.
 
-"Walking" 						(1 in original data)
-"WalkingUpstairs"			(2 in original data)
-"WalkingDownstairs"		(3 in original data)
-"Sitting"							(4 in original data)
-"Standing"						(5 in original data)
-"Laying"							(6 in original data)
+1. "Walking" 						(1 in original data)
+2. "WalkingUpstairs"			(2 in original data)
+3. "WalkingDownstairs"		(3 in original data)
+4. "Sitting"							(4 in original data)
+5. "Standing"						(5 in original data)
+6. "Laying"							(6 in original data)
 
 ## Mean and Standard Deviation Accelerometer Data
 These 79 values are from the "Human Activity Recognition Using Smartphones Dataset - Version 1.0" used as part of the course.
